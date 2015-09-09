@@ -1,0 +1,21 @@
+{
+  "name": "accordion",
+  "version": "1.0.0",
+  "description": "A CSS accordion",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "accordion",
+    "css"
+  ],
+  "author": "Edward Knight",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.0"
+  }
+}
